@@ -16,7 +16,7 @@ I'm a **Java backend developer** with a passion for building sustainable, scalab
 - AWS cloud services
 
 🔭 **Personal Projects**:
-- 🧠 [Neural Network Trainer for Othello (Rust)](https://github.com/diblan)
+- 🧠 [Neural Network Trainer for Othello (Rust)](https://github.com/diblan/othello)
 - 📚 [Quizle – A self-hosted quiz platform (Java + Spring Boot)](https://github.com/diblan/quizle)
 
 🌱 Always exploring clean architecture, idiomatic code, and software longevity.
